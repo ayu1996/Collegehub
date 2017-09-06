@@ -1,0 +1,75 @@
+@charset "utf-8";
+.k{
+	padding-top: 33px;	
+}
+.c{
+	display: inline-block;
+	margin-right: 64px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.col{
+	background-color: rgba(10,54,131,1.00);
+	color: rgba(255,255,255,1.00);
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.col1{
+	background-color: rgba(255,255,255,1.00);
+	color: rgba(0,0,0,1.00);
+
+}
+.col2{
+	background-color: rgba(221,236,253,1.00);
+}
+.col3{
+	padding-top: 30px;	
+}
+
+
+.nh1{
+	margin-top: -16px;
+	margin-left: -16px;
+	margin-bottom: -16px;
+	margin-right: -16px;
+}
+
+
+.a{
+	color: rgba(0,0,0,1.00);
+}
+
+.ff{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.ffh{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: xx-large;
+	
+}
+
+.col5{
+	padding-bottom: 15px;
+	margin-bottom: 15px;	
+}
+.t{
+	margin-top: -25px;
+	padding-top: 0px;
+	padding-bottom: 103px;
+}
+
+.h{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;	
+}
+
+.hs{
+	font-size: xx-small;
+}
